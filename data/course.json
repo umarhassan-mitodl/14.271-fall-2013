@@ -1,0 +1,45 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Industrial Organization"
+    ]
+  ],
+  "legacy_uid": "27092607-6830-dca8-f7d9-4eacef3ec52f",
+  "instructors": {
+    "content": [
+      "2a1a2add-3d97-38ad-1997-df1f491b4bcd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ad85a095-e470-8e26-2282-cab0bb79b46e",
+    "website": "14-271-industrial-organization-i-fall-2013"
+  },
+  "course_title": "Industrial Organization I",
+  "course_description": "The course provides a graduate level introduction to Industrial Organization. It is designed to provide a broad introduction to topics and industries that current researchers are studying as well as to expose students to a wide variety of techniques. It will start the process of preparing economics PhD students to conduct thesis research in the area, and may also be of interest to doctoral students working in other areas of economics and related fields. The course integrates theoretical models and empirical studies.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.271",
+  "course_image_thumbnail": {
+    "content": "c4d0bf28-5a1b-5e29-59bc-299d72d1dfa8",
+    "website": "14-271-industrial-organization-i-fall-2013"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Instructor Insights"
+  ],
+  "site_uid": "8516e8e3-ef27-4ebc-ad04-04a6f1aad360",
+  "site_short_id": "14.271-fall-2013",
+  "site_url_path": "courses/14-271-industrial-organization-i-fall-2013",
+  "title": "Course Metadata"
+}
