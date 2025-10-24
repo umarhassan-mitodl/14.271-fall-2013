@@ -32,7 +32,7 @@ Readings
 
 The primary text for the course is:
 
-{{% resource_link "f36129a7-fb56-4437-8c24-5efb594efb35" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Tirole, Jean. _The Theory of Industrial Organization_. MIT Press, 1988. ISBN: 9780262200714. \[Preview with {{% resource_link "e1373c93-952b-4a4f-913a-b295e680ff79" "Google Books" %}}\]
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262200714) Tirole, Jean. _The Theory of Industrial Organization_. MIT Press, 1988. ISBN: 9780262200714. \[Preview with [Google Books](http://books.google.com/books?id=HIjsF0XONF8C&pg=PAfrontcover)\]
 
 The text provides an overview of most of the theoretical topics.
 
